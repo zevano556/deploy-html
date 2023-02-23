@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+button {
+  background-color: gainsboro;
+  color: black;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: blanchedalmond;
+  color: black;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+}
